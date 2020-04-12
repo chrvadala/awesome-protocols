@@ -1,7 +1,7 @@
 # Awesome Protocols [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of awesome technology protocols with a reference to official RFCs.
-> Listed protocol are open standards and agnostic by specific language implementations,
+> Listed protocols are open standards and agnostic by specific language implementations,
 > anyway a library should be available in your preferred language. If not, you can write your own :)
 
 ## Contents
