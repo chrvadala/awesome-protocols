@@ -8,7 +8,7 @@
 - [Electric Vehicles Recharge](#electric-vehicles-recharge)
 - [IoT Devices](#iot-devices)
 - [Authentication](#authentication)
-- [RPC] (#rpc)
+- [RPC](#rpc)
 - [Messaging](#messaging)
 - [Data Formats](#data-formats)
 - [Consensus](#consensus)
