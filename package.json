@@ -1,0 +1,13 @@
+{
+  "author": "Christian <chr.vadala@gmail.com>",
+  "devDependencies": {
+    "awesome-lint": "*"
+  },
+  "license": "MIT",
+  "name": "awesome-protocols",
+  "private": true,
+  "repository": "https://github.com/chrvadala/awesome-protocols.git",
+  "scripts": {
+    "test": "awesome-lint"
+  }
+}
