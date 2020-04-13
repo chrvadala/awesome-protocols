@@ -6,29 +6,29 @@ Listed protocols are open standards and agnostic by specific language implementa
 
 ## Contents
 - [Protocols](#protocols)
-    - [Electric Vehicles Recharge](#electric-vehicles-recharge)
-    - [IoT Devices](#iot-devices)
-    - [Authentication](#authentication)
-    - [RPC](#rpc)
-    - [Messaging](#messaging)
-    - [Data Formats](#data-formats)
-    - [Consensus](#consensus)
+  - [Electric Vehicles Recharge](#electric-vehicles-recharge)
+  - [IoT Devices](#iot-devices)
+  - [Authentication](#authentication)
+  - [RPC](#rpc)
+  - [Messaging](#messaging)
+  - [Data Formats](#data-formats)
+  - [Consensus](#consensus)
 - [Support](#support)
 - [Contributors](#contributors)
 
 ## Protocols
 ### Electric Vehicles Recharge
-- [OCPP - Open Charge Point Protocol](https://www.openchargealliance.org/protocols/ocpp-201) - A protocol that enables a client to control Charging Station recharge process.
+- [OCPP - Open Charge Point Protocol](https://www.openchargealliance.org/protocols/ocpp-201) - A protocol that allows a client to control Mobility Charging Station.
 - [OSCP - Open Smart Charging Protocol](https://www.openchargealliance.org/protocols/oscp-10) - A protocol that enables an optimized electric vehicle charging.
-- [OICP - Open Interchange Protocol](https://www.hubject.com/wp-content/uploads/2018/10/oicp-emp-2.2.pdf) - A protocol that enables CPO (Charge Point Operators) and (EMP) E-mobility Service Provider companies interoperability.
+- [OICP - Open Interchange Protocol](https://www.hubject.com/wp-content/uploads/2018/10/oicp-emp-2.2.pdf) - A protocol that enables CPO (Charge Point Operators) and (EMP) E-mobility Service Provider interoperability.
 
 ### IoT Devices
-- [ONVIF](https://www.onvif.org/profiles/) - An interoperability protocol for IP-based physical security products. For instance, it allows us to control cameras streaming and PTZ (Pinch Tilt Zoom).
+- [ONVIF](https://www.onvif.org/profiles) - An interoperability protocol for IP-based physical security products. For instance, it allows us to control cameras streaming and PTZ (Pinch Tilt Zoom).
 
 ### Authentication
 - [OAuth2](https://tools.ietf.org/html/rfc6749) - A standard protocol for users and systems authentication.
 - [OpenID Connect](https://openid.net/connect) - A protocol that adds an identity layer on top of the OAuth 2.0 protocol.
-- [SAML2](http://saml.xml.org/saml-specifications) - A standard protocol for user authentication.
+- [SAML2](http://saml.xml.org/saml-specifications) - A standard protocol for users authentication.
 
 ### RPC
 - [gRPC](https://grpc.io) - A Google framework for Remote Procedure Calls.
