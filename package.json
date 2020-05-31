@@ -1,7 +1,7 @@
 {
   "author": "Christian <chr.vadala@gmail.com>",
   "devDependencies": {
-    "awesome-lint": "*"
+    "awesome-lint": "^0.12.1"
   },
   "license": "MIT",
   "name": "awesome-protocols",
