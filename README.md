@@ -29,6 +29,7 @@ Listed protocols are open standards and agnostic by specific language implementa
 - [OAuth2](https://tools.ietf.org/html/rfc6749) - A standard protocol for users and systems authentication.
 - [OpenID Connect](https://openid.net/connect) - A protocol that adds an identity layer on top of the OAuth 2.0 protocol.
 - [SAML2](http://saml.xml.org/saml-specifications) - A standard protocol for users authentication.
+- [SCIM2](https://tools.ietf.org/html/rfc7644) - A standard protocol for users and groups management.
 
 ### RPC
 - [gRPC](https://grpc.io) - A Google framework for Remote Procedure Calls.
