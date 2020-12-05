@@ -13,6 +13,7 @@ Listed protocols are open standards and agnostic by specific language implementa
   - [Messaging](#messaging)
   - [Data Formats](#data-formats)
   - [Consensus](#consensus)
+  - [File Exchange](#file-exchange)
 - [Support](#support)
 - [Contributors](#contributors)
 
@@ -49,7 +50,8 @@ Listed protocols are open standards and agnostic by specific language implementa
 - [RAFT](https://raft.github.io/raft.pdf) - A consensus algorithm for managing a replicated data.
 
 ## File Exchange
-- [WebDAV](https://tools.ietf.org/html/rfc4918) - A standard protocol for remote file editing.
+- [WebDAV](https://tools.ietf.org/html/rfc4918) - A standard protocol for remote file editing, based on HTTP.
+- [FTP](https://tools.ietf.org/html/rfc959) - A standard protocol for remote file editing.
 
 ## Support
 If you found an error or would like to add more information, _don't hesitate_ to
