@@ -48,8 +48,8 @@ Listed protocols are open standards and agnostic by specific language implementa
 ### Consensus
 - [RAFT](https://raft.github.io/raft.pdf) - A consensus algorithm for managing a replicated data.
 
-## File Exchance
-- [WebDAV](https://tools.ietf.org/html/rfc4918) - A standard protocol for remote file editing
+## File Exchange
+- [WebDAV](https://tools.ietf.org/html/rfc4918) - A standard protocol for remote file editing.
 
 ## Support
 If you found an error or would like to add more information, _don't hesitate_ to
