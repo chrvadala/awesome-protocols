@@ -50,7 +50,7 @@ Listed protocols are open standards and agnostic by specific language implementa
 
 ## Support
 If you found an error or would like to add more information, _don't hesitate_ to
-[submit an issue on GitHub](../../issues).
+[submit an issue on GitHub](https://github.com/chrvadala/awesome-protocols/issues/new).
 
 Everyone is welcome regardless of personal background. We enforce a
 [Code of conduct](CODE_OF_CONDUCT.md) in order to promote a positive and
