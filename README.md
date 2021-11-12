@@ -14,14 +14,16 @@ Listed protocols are open standards and agnostic by specific language implementa
   - [Data Formats](#data-formats)
   - [Consensus](#consensus)
   - [File Exchange](#file-exchange)
+  - [4 Humans](#4-humans)
 - [Support](#support)
 - [Contributors](#contributors)
 
 ## Protocols
 ### Electric Vehicles Recharge
-- [OCPP - Open Charge Point Protocol](https://www.openchargealliance.org/protocols/ocpp-201) - A protocol that allows a client to control Mobility Charging Station.
+- [OCPP - Open Charge Point Protocol](https://www.openchargealliance.org/protocols/ocpp-201) - A protocol that allows a client to control Mobility Charging Stations.
 - [OSCP - Open Smart Charging Protocol](https://www.openchargealliance.org/protocols/oscp-10) - A protocol that enables an optimized electric vehicle charging.
-- [OICP - Open Interchange Protocol](https://www.hubject.com/wp-content/uploads/2018/10/oicp-emp-2.2.pdf) - A protocol that enables CPO (Charge Point Operators) and (EMP) E-mobility Service Provider interoperability.
+- [OICP - Open Interchange Protocol](https://www.hubject.com/wp-content/uploads/2018/10/oicp-emp-2.2.pdf) - A protocol that enables CPO (Charge Point Operators) and (EMP) E-mobility Service Provider interoperability via Hubject hub.
+- [OCPI - Open Charge Point Interface](https://evroaming.org/app/uploads/2020/06/OCPI-2.2-d2.pdf) - The Open Charge Point Interface (OCPI) enables a scalable, automated EV roaming setup between Charge Point Operators and eMobility Service Providers.
 
 ### IoT Devices
 - [ONVIF](https://www.onvif.org/profiles) - An interoperability protocol for IP-based physical security products. For instance, it allows us to control cameras streaming and PTZ (Pinch Tilt Zoom).
@@ -52,6 +54,10 @@ Listed protocols are open standards and agnostic by specific language implementa
 ### File Exchange
 - [WebDAV](https://tools.ietf.org/html/rfc4918) - A standard protocol for remote file editing, based on HTTP.
 - [FTP](https://tools.ietf.org/html/rfc959) - A standard protocol for remote file editing.
+
+## 4 Humans
+- [Semantic versioning](https://semver.org/) - Semantic versioning is a formal convention for specifying compatibility using a three-part version number: major version; minor version; and patch.
+- [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#specification) - A specification for adding human and machine readable meaning to commit messages.
 
 ## Support
 If you found an error or would like to add more information, _don't hesitate_ to
