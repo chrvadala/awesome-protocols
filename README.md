@@ -55,7 +55,7 @@ Listed protocols are open standards and agnostic by specific language implementa
 - [WebDAV](https://tools.ietf.org/html/rfc4918) - A standard protocol for remote file editing, based on HTTP.
 - [FTP](https://tools.ietf.org/html/rfc959) - A standard protocol for remote file editing.
 
-## 4 Humans
+### 4 Humans
 - [Semantic versioning](https://semver.org/) - Semantic versioning is a formal convention for specifying compatibility using a three-part version number: major version; minor version; and patch.
 - [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/#specification) - A specification for adding human and machine readable meaning to commit messages.
 
