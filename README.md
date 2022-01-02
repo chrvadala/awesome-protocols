@@ -34,6 +34,10 @@ Listed protocols are open standards and agnostic by specific language implementa
 - [SAML2](http://saml.xml.org/saml-specifications) - A standard protocol for users authentication.
 - [SCIM2](https://tools.ietf.org/html/rfc7644) - A standard protocol for users and groups management.
 - [PKCE](https://datatracker.ietf.org/doc/html/rfc7636) - An extension of Authorization Code Grant flow by OAuth.
+- [OpenID Connect RP-Initiated Logout](https://openid.net/specs/openid-connect-rpinitiated-1_0.html) - A mechanism for a Relying Party to request that an OpenID Provider log out the End-User.
+- [OpenID Connect Back-Channel Logout](https://openid.net/specs/openid-connect-backchannel-1_0.html) - This specification defines a logout mechanism that uses direct back-channel communication between the OP and RPs being logged out.
+- [OpenID Connect Front-Channel Logout](https://openid.net/specs/openid-connect-frontchannel-1_0.html) - This specification defines a logout mechanism that uses front-channel communication via the User Agent between the OP and RPs being logged out.
+
 
 ### RPC
 - [gRPC](https://grpc.io) - A Google framework for Remote Procedure Calls.
@@ -51,6 +55,7 @@ Listed protocols are open standards and agnostic by specific language implementa
 
 ### Consensus
 - [RAFT](https://raft.github.io/raft.pdf) - A consensus algorithm for managing a replicated data.
+- [Scuttlebutt Protocol](https://ssbc.github.io/scuttlebutt-protocol-guide/) - Scuttlebutt is a protocol for building decentralized applications that work well offline and that no one person can control.
 
 ### File Exchange
 - [WebDAV](https://tools.ietf.org/html/rfc4918) - A standard protocol for remote file editing, based on HTTP.
