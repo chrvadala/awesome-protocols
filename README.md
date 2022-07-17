@@ -48,6 +48,7 @@ Listed protocols are open standards and agnostic by specific language implementa
 ### Messaging
 - [MQTT](http://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html) - A lightweight messaging transport protocol, great for IoT communication.
 - [AMQP](http://www.amqp.org/specification/1.0/amqp-org-download) - A messaging transport protocol.
+- [DBus](https://dbus.freedesktop.org/doc/dbus-specification.html) - A protocol for Linux interprocess communication.
 
 ### Data Formats
 - [GeoJSON](https://tools.ietf.org/html/rfc7946) - A geospatial data interchange format based on JSON.
