@@ -52,6 +52,7 @@ Listed protocols are open standards and agnostic by specific language implementa
 ### Data Formats
 - [GeoJSON](https://tools.ietf.org/html/rfc7946) - A geospatial data interchange format based on JSON.
 - [JWT](https://tools.ietf.org/html/rfc7519) - A standard method for securely representing claims between two parties.
+- [JSON Schema](http://json-schema.org/draft/2020-12/json-schema-core.html) - A standard for JSON structure validation.
 
 ### Consensus
 - [RAFT](https://raft.github.io/raft.pdf) - A consensus algorithm for managing a replicated data.
