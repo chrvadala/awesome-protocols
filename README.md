@@ -48,6 +48,7 @@ Listed protocols are open standards and agnostic by specific language implementa
 ### Messaging
 - [MQTT](http://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html) - A lightweight messaging transport protocol, great for IoT communication.
 - [AMQP](http://www.amqp.org/specification/1.0/amqp-org-download) - A messaging transport protocol.
+- [Anatomy of a Payment](https://digbijoylabs.github.io/anatomy-of-a-payment/) - Interactive Apache-2.0 workbench and [CC-BY-4.0 paper](https://doi.org/10.5281/zenodo.24444210) dissecting ISO 20022 and ISO 8583 financial messaging protocols.
 
 ### Data Formats
 - [GeoJSON](https://tools.ietf.org/html/rfc7946) - A geospatial data interchange format based on JSON.
